@@ -27,6 +27,10 @@
 }
 
 
+html{
+    scroll-behavior: smooth;
+}
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
