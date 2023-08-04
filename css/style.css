@@ -542,6 +542,42 @@ html {
   }
 }
 
+/* .navbar-brand {
+  align-items: center;
+  text-align: center;
+} */
+
 .navbar-brand img {
-  width: 50%;
+  width: 40%;
+}
+
+.navbar .navbar-brand {
+  left: 45%;
+}
+
+.bandkaro {
+  width: 3rem;
+}
+
+.hero-image {
+  min-height: 85vh;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/223/523/708/figure-web-costume-hero-mask-hd-wallpaper-thumb.jpg");
+  background-size: cover;
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+}
+
+.d-flex {
+  display: flex !important;
+  justify-content: center;
+}
+
+.social-icon {
+  
+}
+
+@media screen and (max-width: 480px) {
+  .hero-image {
+    min-height: 25vh;
+  }
 }
