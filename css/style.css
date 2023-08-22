@@ -566,8 +566,14 @@ html {
 }
 
 .bandkaro {
-  width: 3.8rem;
-  margin-bottom: -1rem;
+  width: 10rem;
+  margin-bottom: -3rem;
+  
+}
+
+.fix-nav-bar{
+  position: fixed;
+  background-color: #eeeeee;
 }
 
 .hero-image {
