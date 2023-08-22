@@ -465,6 +465,15 @@ html {
   background: var(--dark);
 }
 
+
+@media  screen and (max-witdh:480px) {
+  .testimonial-item img {
+    width: 10rem !important;
+    height: 10rem !important;
+    border-radius: 20px;
+  }
+}
+
 /*** Footer ***/
 .footer {
   color: #b0b9ae;
