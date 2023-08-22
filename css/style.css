@@ -465,14 +465,15 @@ html {
   background: var(--dark);
 }
 
-
-@media  screen and (max-witdh:480px) {
+@media screen and (max-width: 480px) {
   .testimonial-item img {
     width: 5rem !important;
     height: 5rem !important;
     border-radius: 20px;
   }
 }
+
+
 
 /*** Footer ***/
 .footer {
