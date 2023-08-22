@@ -473,7 +473,9 @@ html {
   }
 }
 
-
+.big-100{
+  font-size: 4rem;
+}
 
 /*** Footer ***/
 .footer {
@@ -568,12 +570,13 @@ html {
 .bandkaro {
   width: 10rem;
   margin-bottom: -3rem;
+  margin-top: 0rem;
   
 }
 
 .fix-nav-bar{
   position: fixed;
-  background-color: #eeeeee;
+  /* background-color: #eeeeee; */
 }
 
 .hero-image {
@@ -582,6 +585,15 @@ html {
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
+}
+
+.about-1{
+  margin-bottom: 0rem !important;
+  margin-top: 7rem !important;
+}
+
+.about-100{
+ font-size: 3rem;
 }
 
 .d-flex {
