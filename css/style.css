@@ -437,9 +437,9 @@ html {
 }
 
 .testimonial-item img {
-  width: 60px !important;
-  height: 60px !important;
-  border-radius: 60px;
+  width: 19rem !important;
+  height: 19rem !important;
+  border-radius: 20px;
 }
 
 .testimonial-carousel .owl-dots {
@@ -556,12 +556,13 @@ html {
 }
 
 .bandkaro {
-  width: 3rem;
+  width: 3.8rem;
+  margin-bottom: -1rem;
 }
 
 .hero-image {
   min-height: 85vh;
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/223/523/708/figure-web-costume-hero-mask-hd-wallpaper-thumb.jpg");
+  background-image: url("/img/hero-shweta.jpeg");
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -579,5 +580,13 @@ html {
 @media screen and (max-width: 480px) {
   .hero-image {
     min-height: 25vh;
+    background-image: url("/img/hero-shweta-mobile.png");
   }
 }
+
+
+.text-justify{
+  text-align:justify;
+}
+
+
