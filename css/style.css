@@ -468,8 +468,8 @@ html {
 
 @media  screen and (max-witdh:480px) {
   .testimonial-item img {
-    width: 9rem !important;
-    height: 9rem !important;
+    width: 5rem !important;
+    height: 5rem !important;
     border-radius: 20px;
   }
 }
