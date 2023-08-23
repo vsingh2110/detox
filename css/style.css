@@ -460,6 +460,11 @@ html {
   transition: 0.5s;
 }
 
+/* iframe {
+  width:450px !important;
+  height:315px !important ;
+} */
+
 .testimonial-carousel .owl-dot.active {
   width: 30px;
   background: var(--dark);
@@ -471,6 +476,11 @@ html {
     height: 5rem !important;
     border-radius: 20px;
   }
+  
+   iframe {
+    width:215px !important;
+  }
+
 }
 
 .big-100{
