@@ -590,7 +590,7 @@ html {
 }
 
 .hero-image {
-  min-height: 85vh;
+  min-height: 86vh;
   background-image: url("/img/ST.jpg");
   background-size: cover;
   background-attachment: scroll;
