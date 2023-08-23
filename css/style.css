@@ -640,9 +640,11 @@ html {
 
   .top-join{
     position: absolute;
-   top:93%;
+   top:100%;
    left:15%;
    background-color: #037303;
+   font-size: 0.7rem;
+   
   }
 
   .bandkaro {
