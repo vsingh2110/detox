@@ -631,7 +631,7 @@ html {
   
   .hero-image {
     min-height: 50vh;
-    background-image: url("/img/st-m.png");
+    background-image: url("/img/st-m.jpg");
     background-position: 59% 55%;
   }
 
@@ -641,10 +641,10 @@ html {
   .top-join{
     position: absolute;
    top:100%;
-   left:15%;
+   left:20%;
    background-color: #037303;
    font-size: 0.7rem;
-   
+
   }
 
   .bandkaro {
