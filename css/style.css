@@ -578,34 +578,32 @@ html {
 }
 
 .bandkaro {
-<<<<<<< HEAD
-  width: 3.8rem;
+  width: 7rem;
   margin-bottom: -1rem;
-}
-
-.hero-image {
-  min-height: 85vh;
-  background-image: url("/img/hero-shweta.jpeg");
-=======
-  width: 10rem;
-  margin-bottom: -3rem;
-  margin-top: 0rem;
-  
-}
-
-.fix-nav-bar{
+  margin-left: 5rem;
   position: fixed;
-  /* background-color: #eeeeee; */
+ z-index: 3;
 }
+
+
+
 
 .hero-image {
   min-height: 100vh;
   background-image: url("/img/ST.jpg");
->>>>>>> 029aa3dc53dcc8dcb13db2bf18d557db995dd1bd
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
+  position: relative;
 }
+
+.top-join{
+  position: absolute;
+ top:83%;
+ left:65%;
+ background-color: #037303;
+}
+
 
 .about-1{
   margin-bottom: 0rem !important;
@@ -632,15 +630,6 @@ html {
   }
 }
 
-<<<<<<< HEAD
 .text-justify{
   text-align: justify;
 }
-=======
-
-.text-justify{
-  text-align:justify;
-}
-
-
->>>>>>> 029aa3dc53dcc8dcb13db2bf18d557db995dd1bd
