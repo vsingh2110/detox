@@ -604,6 +604,7 @@ html {
  top:83%;
  left:65%;
  background-color: #037303;
+ font-size: 1.5rem;
 }
 
 
@@ -641,10 +642,10 @@ html {
 
   .top-join{
     position: absolute;
-   top:100%;
-   left:25%;
+   top:90%;
+   left:35%;
    background-color: #037303;
-   font-size: 0.7rem;
+   font-size: 0.9rem;
 
   }
 
