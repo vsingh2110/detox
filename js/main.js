@@ -56,7 +56,7 @@
 
     // Product carousel
     $(".product-carousel").owlCarousel({
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 1000,
         margin: 25,
         loop: true,
@@ -86,7 +86,7 @@
 
     // Testimonial carousel
     $(".testimonial-carousel").owlCarousel({
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 1000,
         items: 1,
         loop: true,

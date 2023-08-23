@@ -437,9 +437,9 @@ html {
 }
 
 .testimonial-item img {
-  width: 60px !important;
-  height: 60px !important;
-  border-radius: 60px;
+  width: 19rem !important;
+  height: 19rem !important;
+  border-radius: 20px;
 }
 
 .testimonial-carousel .owl-dots {
@@ -460,9 +460,31 @@ html {
   transition: 0.5s;
 }
 
+/* iframe {
+  width:450px !important;
+  height:315px !important ;
+} */
+
 .testimonial-carousel .owl-dot.active {
   width: 30px;
   background: var(--dark);
+}
+
+@media screen and (max-width: 480px) {
+  .testimonial-item img {
+    width: 5rem !important;
+    height: 5rem !important;
+    border-radius: 20px;
+  }
+  
+   iframe {
+    width:205px !important;
+  }
+
+}
+
+.big-100{
+  font-size: 4rem;
 }
 
 /*** Footer ***/
@@ -556,6 +578,7 @@ html {
 }
 
 .bandkaro {
+<<<<<<< HEAD
   width: 3.8rem;
   margin-bottom: -1rem;
 }
@@ -563,9 +586,34 @@ html {
 .hero-image {
   min-height: 85vh;
   background-image: url("/img/hero-shweta.jpeg");
+=======
+  width: 10rem;
+  margin-bottom: -3rem;
+  margin-top: 0rem;
+  
+}
+
+.fix-nav-bar{
+  position: fixed;
+  /* background-color: #eeeeee; */
+}
+
+.hero-image {
+  min-height: 100vh;
+  background-image: url("/img/ST.jpg");
+>>>>>>> 029aa3dc53dcc8dcb13db2bf18d557db995dd1bd
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
+}
+
+.about-1{
+  margin-bottom: 0rem !important;
+  margin-top: 7rem !important;
+}
+
+.about-100{
+ font-size: 3rem;
 }
 
 .d-flex {
@@ -580,9 +628,19 @@ html {
 @media screen and (max-width: 480px) {
   .hero-image {
     min-height: 25vh;
+    background-image: url("/img/hero-shweta-mobile.png");
   }
 }
 
+<<<<<<< HEAD
 .text-justify{
   text-align: justify;
 }
+=======
+
+.text-justify{
+  text-align:justify;
+}
+
+
+>>>>>>> 029aa3dc53dcc8dcb13db2bf18d557db995dd1bd
