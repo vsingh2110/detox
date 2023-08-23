@@ -556,12 +556,13 @@ html {
 }
 
 .bandkaro {
-  width: 3rem;
+  width: 3.8rem;
+  margin-bottom: -1rem;
 }
 
 .hero-image {
   min-height: 85vh;
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/223/523/708/figure-web-costume-hero-mask-hd-wallpaper-thumb.jpg");
+  background-image: url("/img/hero-shweta.jpeg");
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
@@ -580,4 +581,8 @@ html {
   .hero-image {
     min-height: 25vh;
   }
+}
+
+.text-justify{
+  text-align: justify;
 }
