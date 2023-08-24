@@ -581,9 +581,9 @@ html {
 }
 
 .bandkaro {
-  width: 7rem;
+  width: 4rem;
   margin-bottom: -1rem;
-  margin-left: 5rem;
+  margin-left: 3rem;
   position: fixed;
  z-index: 3;
 }
@@ -651,7 +651,7 @@ html {
   }
 
   .bandkaro {
-    width: 5rem;
+    width: 4rem;
     margin-bottom: -1rem;
     margin-left: 0.3rem;
     position: fixed;
