@@ -478,7 +478,7 @@ html {
     border-radius: 20px;
   }
   
-   iframe {
+   .mb-4 iframe {
     width:205px !important;
   }
 
