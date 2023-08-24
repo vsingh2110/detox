@@ -262,7 +262,8 @@ html {
 .product-carousel .owl-nav {
   display: flex;
   justify-content: center;
-  margin-top: 30px;
+  /* margin-top: 30px; */
+  margin-top: -12px
 }
 
 .product-carousel .owl-nav .owl-prev,
@@ -610,7 +611,7 @@ html {
 
 .about-1{
   margin-bottom: 0rem !important;
-  margin-top: 7rem !important;
+  margin-top: 1rem !important;
 }
 
 .about-100{
@@ -642,7 +643,7 @@ html {
 
   .top-join{
     position: absolute;
-   top:90%;
+   top:85%;
    left:35%;
    background-color: #037303;
    font-size: 0.9rem;
