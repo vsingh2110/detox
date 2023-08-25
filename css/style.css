@@ -581,16 +581,16 @@ html {
 }
 
 .bandkaro {
-  width: 2.3rem;
+  width: 4rem;
   margin-bottom: -1rem;
   margin-right: 5rem;
   position: fixed;
  z-index: 3;
 }
 
-.fix-nav-bar{
-  /* text-align: right; */
-}
+/* .fix-nav-bar{
+  margin-right: auto !important;
+} */
 
 
 
@@ -656,13 +656,16 @@ html {
   .bandkaro {
     width: 2.3rem;
     margin-bottom: -1rem;
-    margin-right: 0.3rem;
+    margin-right: 3rem !important;
     position: fixed;
    z-index: 3;
   }
 
   .font-receipe{
     font-size: 0.8rem !important;
+  }
+
+  .fix-nav-bar{
   }
   
 }
