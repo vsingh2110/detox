@@ -583,11 +583,14 @@ html {
 .bandkaro {
   width: 2.3rem;
   margin-bottom: -1rem;
-  margin-right: 3rem;
+  margin-right: 5rem;
   position: fixed;
  z-index: 3;
 }
 
+.fix-nav-bar{
+  /* text-align: right; */
+}
 
 
 
