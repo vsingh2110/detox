@@ -657,6 +657,10 @@ html {
     position: fixed;
    z-index: 3;
   }
+
+  .font-receipe{
+    font-size: 0.8rem !important;
+  }
   
 }
 
