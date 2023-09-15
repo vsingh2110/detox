@@ -596,7 +596,7 @@ html {
 
 .hero-image {
   min-height: 100vh;
-  background-image: url("/img/ST.jpg");
+  background-image: url("../img/ST.jpg");
   background-size: cover;
   background-attachment: scroll;
   background-repeat: no-repeat;
